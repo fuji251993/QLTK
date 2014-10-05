@@ -76,8 +76,6 @@ C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTI
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.pdb
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\bin\Release\TangGiaoDien.exe.config
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.csprojResolveAssemblyReference.cache
-C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrBaoCaoNgay.resources
-C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrBaoCaoThang.resources
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrChiTietBaoCaoNgay.resources
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrChiTietBaoCaoThang1.resources
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrPhieuGoiTien.resources
@@ -91,4 +89,12 @@ C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTI
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.Properties.Resources.resources
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.csproj.GenerateResource.Cache
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.exe.licenses
-C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.Test.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\bin\Release\TangGiaoDien.exe
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\bin\Release\TangGiaoDien.pdb
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\bin\Release\BUS.dll
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\bin\Release\crystaldecisions.windows.forms.dll
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\bin\Release\DTO.dll
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\bin\Release\DAO.dll
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\bin\Release\BUS.pdb
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\bin\Release\DTO.pdb
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\bin\Release\DAO.pdb

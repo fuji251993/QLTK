@@ -40,7 +40,6 @@ namespace DAO
             command.Connection = conection;
             command.CommandText = cautruyvan;
             command.CommandType = CommandType.Text;
-
             command.ExecuteNonQuery();
             conection.Close();
         }

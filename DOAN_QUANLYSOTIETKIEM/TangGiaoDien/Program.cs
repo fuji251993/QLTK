@@ -14,7 +14,7 @@ namespace TangGiaoDien
         {
             Application.EnableVisualStyles();             
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MH_DangNhap());
+            Application.Run(new GiaoDienChinh());
         }
     }
 }
